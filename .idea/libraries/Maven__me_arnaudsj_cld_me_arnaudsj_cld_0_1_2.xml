@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.arnaudsj.cld:me.arnaudsj.cld:0.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/arnaudsj/cld/me.arnaudsj.cld/0.1.2/me.arnaudsj.cld-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/me/arnaudsj/cld/me.arnaudsj.cld/0.1.2/me.arnaudsj.cld-0.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/arnaudsj/cld/me.arnaudsj.cld/0.1.2/me.arnaudsj.cld-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
